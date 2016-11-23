@@ -14,3 +14,4 @@ Category-specific links are listed below:
 - [Confirmed general issues](https://github.com/ModDota/BugTracker/projects/3)
 - [Confirmed Lua issues](https://github.com/ModDota/BugTracker/projects/1)
 - [Confirmed Panorama issues](https://github.com/ModDota/BugTracker/projects/2)
+- [Feature requests](https://github.com/ModDota/BugTracker/projects/4)
