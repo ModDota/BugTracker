@@ -12,5 +12,5 @@ Lists of confirmed issues sorted on priority and category can be found in the [P
 Category-specific links are listed below:
 
 - [Confirmed general issues](https://github.com/ModDota/BugTracker/projects/3)
-- [Confirmed LUA issues](https://github.com/ModDota/BugTracker/projects/1)
+- [Confirmed Lua issues](https://github.com/ModDota/BugTracker/projects/1)
 - [Confirmed Panorama issues](https://github.com/ModDota/BugTracker/projects/2)
